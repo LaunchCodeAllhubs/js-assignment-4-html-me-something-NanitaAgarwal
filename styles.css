@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+#mainHeading {
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    color: red;
+    text-shadow: 5px 5px 10px black;
+    font-size: 4rem;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+    font-style: italic;
+}
+
+body {
+    background-color:floralwhite;
+    margin: 8px;
+    display: inline-block;
+}
+
+figure {
+    text-align: center;
+}
+
+p::first-letter {
+    color: red;
+    font-size: 1.5rem;
+    float: left;
+    padding-right: 4px;
+}
+
+.funParagraph {
+    color: green;
+}
