@@ -17,7 +17,7 @@ h2 {
 body {
     background-color:floralwhite;
     margin: 8px;
-    display: inline-block;
+    display: block;
 }
 
 figure {
